@@ -1,2 +1,2 @@
 # url-shortener
-A simple URL shortener based on PHP and SQL
+A simple URL shortener based on JS and SQL with PHP being the backend.
